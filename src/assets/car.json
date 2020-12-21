@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "BMW X1",
+  "make": "BMW",
+  "model": "SUV",
+  "years": 2009,
+  "description": "The BMW X1 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1998 cc while the Petrol engine is 1998 cc. It is available with the Automatic transmission. The X1 is a 5 seater SUV and has a length of 4447mm, width of 2060mm and a wheelbase of 2670mm.",
+  "photo": "assets/bmw-x1.jpg"
+}

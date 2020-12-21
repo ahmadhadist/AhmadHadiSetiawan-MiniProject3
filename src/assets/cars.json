@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "BMW X1",
+        "make": "BMW",
+        "model": "SUV",
+        "years": 2009,
+        "description": "The BMW X1 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1998 cc while the Petrol engine is 1998 cc. It is available with the Automatic transmission. The X1 is a 5 seater SUV and has a length of 4447mm, width of 2060mm and a wheelbase of 2670mm.",
+        "photo": "assets/bmw-x1.jpg"
+      },
+    
+      {
+        "id": 2,
+        "name": "BMW X2",
+        "make": "BMW",
+        "model": "SUV",
+        "years": 2016,
+        "description": "Absolutely unique. Extremely exceptional. The BMW X2 makes its sporty ambitions quite clear at first sight. Thanks to its bold athleticism, it supplies a dynamic and agile performance that is unrivalled in this class. Coupled with a high-quality interior and many innovative technologies, it is the extroverted protagonist of a new era. Are you ready?",
+        "photo": "assets/bmw-x2.jfif"
+      },
+
+      {
+            "id": 3,
+            "name": "BMW X3",
+            "make": "BMW",
+            "model": "SUV",
+            "years": 2003,
+            "description": "The BMW X3 is a statement of unlimited opportunities and an expression of sheer presence and freedom. From the very first glance, it impresses with its athletic appearance and fascinates with an exciting driving experience. Thanks to partially autonomous driving and the intelligent all-wheel drive system BMW xDrive, it offers supreme ride comfort both on and off the road. It therefore redefines the benchmarks in its class and makes one thing unmistakably clear: there is a great difference in how you reach your destinations.",
+            "photo": "assets/bmw-x3.jfif"
+          },
+
+          {
+            "id": 4,
+            "name": "BMW X4",
+            "make": "BMW",
+            "model": "SUV",
+            "years": 2014,
+            "description": "No matter what challenges may lie in your way, the BMW X4 eagerly anticipates them. Its progressive design and the coupé-like contours instantly reveal its thirst for action. And thanks to the first-class driving dynamics, the innovative lightweight construction with a low centre of gravity as well as the even higher performance level – only one thing stands between you and your destinations: sheer driving pleasure.",
+            "photo": "assets/bmw-x4.jpg"
+          },
+          {
+            "id": 5,
+            "name": "BMW X5",
+            "make": "BMW",
+            "model": "SUV",
+            "years": 1999,
+            "description": "The boss is there and is putting everyone in their place: the BMW X5. Its presence is clear for all to see – upright, powerful and elegant. The mighty one-piece double kidney grille hints at what will happen when it takes a deep breath. And the honed X design of the headlights leaves no doubt as to who will take the lead. Equipped with new technologies for more safety and maximum driving dynamics on every surface, the BMW X5 knows where it’s going. And how to get there first.",
+            "photo": "assets/bmw-x5.jfif"
+          },
+          {
+            "id": 6,
+            "name": "BMW X6",
+            "make": "BMW",
+            "model": "SAC",
+            "years": 2008,
+            "description": "Uncompromisingly non-conformist – the new BMW X6 stands for provocative self-assertiveness. Above all, this is visible in the extremely athletic body of the vehicle along with the new, distinctive design language, which is displayed by the supreme exclusivity and visionary technologies such as the impressive BMW kidney grille ‘Iconic Glow’. All of this primarily points to one thing: absolute dominance, which the new BMW X6 demonstrates quite matter-of-factly on every route thanks to a powerful engine, precise suspension and features such as the xOffroad package. Experience a previously unseen new way of exceeding expectations with the new BMW X6.",
+            "photo": "assets/bmw-x6.jpg"
+          },
+          {
+            "id": 7,
+            "name": "BMW X7",
+            "make": "BMW",
+            "model": "SUV",
+            "years": 2014,
+            "description": "A statement of the luxury class: the new BMW X7 is the elegant fusion of presence and personality. Despite its majestic appearance, it gives an impression of lightness and agility thanks to the puristic design and athletic styling. At the same time, the considerable spaciousness of the interior offers a pioneering interplay of exclusivity, functionality and freedom – incomparable comfort all the way to the third row of seats. Charm is its essence. Elegance its character.",
+            "photo": "assets/bmw-x7.jfif"
+          }
+    ]

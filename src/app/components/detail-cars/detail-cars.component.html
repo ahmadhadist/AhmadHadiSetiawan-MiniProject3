@@ -1,0 +1,29 @@
+
+<div class="container">
+    <div>
+    <h1>{{car.name}}</h1>
+    
+    <br><br>
+
+<div class="row">
+
+    <div class="col-md-8">
+        <img class="img-fluid" src="{{car.photo}}" alt="" style="width: 100%; border-radius: 25px;">
+    </div>
+
+    <div class="col-md-4">
+        <h3>Overview</h3>
+            <p><strong>{{car.description}}</strong></p>
+            <p>Make: {{car.make}}</p>
+            <p>Model: {{car.model}}</p>
+            <p>Year: {{car.years}}</p>
+            <br><br><br><br><br>
+            <p><button type="button" class="btn btn-success btn-lg">Book now</button></p>
+            <button type="button" class="btn btn-primary btn-lg" (click)="goBack()">go back</button>
+            
+        
+    </div>
+
+</div>
+
+</div>

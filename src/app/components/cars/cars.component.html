@@ -1,0 +1,17 @@
+
+<div class="container">
+<div class="row">
+    <div class="col-md-3" *ngFor="let car of cars">
+    <div class="card" style="width: 18rem;">
+        <img src={{car.photo}} class="card-img-top" alt="...">
+        <div class="card-body">
+          <h1 class="card-title">{{car.name}}</h1>
+          <p class="card-text">Model: {{car.model}}</p>
+          <p class="card-text">Year: {{car.years}}</p>
+          <a routerLink="/detail/{{car.id}}" class="btn btn-primary">Detail</a>
+        </div>
+      </div>
+    </div>
+</div>
+</div>
+    
